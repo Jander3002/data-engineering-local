@@ -1,0 +1,21 @@
+ID_Despacho,Fecha_Despacho,Cliente,Tipo_Cliente,Ciudad_Destino,Pais_Destino,Categoria_Producto,Producto,Unidades,Costo_Envio_USD,Monto_Venta_USD,Estado_Envio,Tiempo_Entrega_Dias
+DESP-1001,2025-01-05,MineTech Corp,Corporativo,Arequipa,Peru,Maquinaria,Filtro Industrial,5,150.00,1200.00,Entregado,3
+DESP-1002,2025-01-07,Constructora Sur,Pyme,Santiago,Chile,Repuestos,Bomba Hidráulica,2,80.00,450.00,Entregado,4
+DESP-1003,2025-01-10,Andes Mining,Corporativo,Antofagasta,Chile,Maquinaria,Sensor Térmico,10,220.00,2100.00,Entregado,2
+DESP-1004,2025-01-12,Servicios Logísticos,Pyme,Lima,Peru,Herramientas,Taladro Neumático,4,45.00,320.00,Retrasado,6
+DESP-1005,2025-01-15,MineTech Corp,Corporativo,Arequipa,Peru,Repuestos,Bomba Hidráulica,1,50.00,220.00,Entregado,3
+DESP-1006,2025-02-01,Inversiones Norte,Pyme,Bogota,Colombia,Herramientas,Juego de Llaves,15,30.00,180.00,Entregado,4
+DESP-1007,2025-02-04,Andes Mining,Corporativo,Antofagasta,Chile,Maquinaria,Filtro Industrial,8,180.00,1920.00,Entregado,3
+DESP-1008,2025-02-10,Constructora Sur,Pyme,Santiago,Chile,Herramientas,Taladro Neumático,2,50.00,160.00,Cancelado,0
+DESP-1009,2025-03-02,MineTech Corp,Corporativo,Arequipa,Peru,Maquinaria,Sensor Térmico,6,120.00,1260.00,Entregado,2
+DESP-1010,2025-03-15,Servicios Logísticos,Pyme,Lima,Peru,Repuestos,Bomba Hidráulica,3,90.00,660.00,Entregado,3
+DESP-1011,2025-04-05,Inversiones Norte,Pyme,Bogota,Colombia,Maquinaria,Filtro Industrial,4,130.00,960.00,Entregado,5
+DESP-1012,2025-05-12,Andes Mining,Corporativo,Antofagasta,Chile,Repuestos,Bomba Hidráulica,5,150.00,1100.00,Entregado,3
+DESP-1013,2026-01-08,MineTech Corp,Corporativo,Arequipa,Peru,Maquinaria,Filtro Industrial,7,210.00,1680.00,Entregado,3
+DESP-1014,2026-01-14,Constructora Sur,Pyme,Santiago,Chile,Repuestos,Bomba Hidráulica,4,160.00,900.00,Entregado,4
+DESP-1015,2026-01-20,Andes Mining,Corporativo,Antofagasta,Chile,Maquinaria,Sensor Térmico,12,250.00,2520.00,Retrasado,5
+DESP-1016,2026-02-02,Servicios Logísticos,Pyme,Lima,Peru,Herramientas,Taladro Neumático,5,55.00,400.00,Entregado,3
+DESP-1017,2026-02-11,Inversiones Norte,Pyme,Bogota,Colombia,Herramientas,Juego de Llaves,20,40.00,240.00,Entregado,4
+DESP-1018,2026-02-18,MineTech Corp,Corporativo,Arequipa,Peru,Maquinaria,Filtro Industrial,10,300.00,2400.00,Entregado,2
+DESP-1019,2026-03-05,Andes Mining,Corporativo,Antofagasta,Chile,Repuestos,Bomba Hidráulica,6,180.00,1320.00,Entregado,3
+DESP-1020,2026-03-12,Constructora Sur,Pyme,Santiago,Chile,Herramientas,Taladro Neumático,3,60.00,240.00,Entregado,3

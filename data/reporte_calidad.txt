@@ -1,0 +1,13 @@
+=== Leyendo archivo: data/ventas_logistica_plano.csv ===
+Total de registros a validar: 20
+
+1. Validación de Nulos:
+ID_Despacho        0
+Fecha_Despacho     0
+Monto_Venta_USD    0
+dtype: int64
+
+2. Registros con monto de venta inválido (<= 0): 0
+3. Registros duplicados por ID_Despacho: 0
+
+✅ ¡Validación de calidad completada!
