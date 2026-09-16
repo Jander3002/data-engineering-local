@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/output_ventas_parquet/
+*.parquet
+*.log
+.vscode/
